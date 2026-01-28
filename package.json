@@ -1,0 +1,24 @@
+{
+  "name": "hexlet",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Мой первый проект на hexlet",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.23"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edikdevtech/hexlet-js.git"
+  },
+  "author": "Eduard EdikDevTech <iamedikkurbat0v@gamil.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edikdevtech/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/edikdevtech/hexlet-js#readme"
+}
