@@ -1,3 +1,3 @@
-#npm install lodash
-install-lodash:
+#npm install dependencies
+install:
 	npm install lodash
