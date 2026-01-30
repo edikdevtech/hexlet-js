@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/edikdevtech/hexlet-js/issues"
   },
-  "homepage": "https://github.com/edikdevtech/hexlet-js#readme"
+  "homepage": "https://github.com/edikdevtech/hexlet-js#readme",
+  "devDependencies": {
+    "prettier": "^3.8.1"
+  }
 }
